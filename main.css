@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+section{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+.line{
+    flex: 1;
+    display: flex;
+}
+.line div{
+
+}
